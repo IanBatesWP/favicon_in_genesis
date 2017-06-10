@@ -10,3 +10,9 @@ alert(s);
 s = "Python syntax highlighting"
 print s
 ```
+
+```php
+<?php
+  echo "go fuck yourself"; 
+?>
+```
