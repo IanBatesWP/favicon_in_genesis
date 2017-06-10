@@ -6,13 +6,13 @@ var s = "JavaScript syntax highlighting";
 alert(s);
 ```
 
-###Then do this shit: 
+# Then do this shit: 
 ```python
 s = "Python syntax highlighting"
 print s
 ```
 
-##Then add this line of php code:
+# Then add this line of php code:
 ```php
 <?php
   echo "go fuck yourself"; 
