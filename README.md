@@ -5,12 +5,14 @@ Example code from WPStuffs.com on how to set your favicon in your theme's functi
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
- 
+
+###Then do this shit: 
 ```python
 s = "Python syntax highlighting"
 print s
 ```
 
+##Then add this line of php code:
 ```php
 <?php
   echo "go fuck yourself"; 
